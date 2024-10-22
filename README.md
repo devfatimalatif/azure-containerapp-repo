@@ -1,5 +1,6 @@
 # azure-containerapp-repo
-Azure Container App Deployment Using Terraform
+Azure Container App Deployment Using Terraform.
+
 This repository contains Terraform configuration for deploying an Azure Container App that runs a specified application. The deployment process is modular, enhancing reusability and enabling easy updates or replication of the infrastructure.
 
 Features
@@ -18,7 +19,7 @@ Getting Started
 Clone the Repository:
 git clone https://github.com/your-repository-url.git
 
-Customize Variables: Define your variables in terraform.tfvars (or pass them through the command line) for things like resource group name, container image, app environment, etc. Example:
+Customize Variables: Define your variables in terraform.tfvars (or pass them through the command line) for things like resource group name, container image, app environment, etc.
 
 
 Initialize Terraform: Run Terraform initialization to set up the working directory and install necessary modules.
