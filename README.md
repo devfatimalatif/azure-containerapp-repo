@@ -17,7 +17,7 @@ Features
 Getting Started
 
 Clone the Repository:
-git clone https://github.com/your-repository-url.git
+git clone https://github.com/devfatimalatif/azure-containerapp-repo.git
 
 Customize Variables: Define your variables in terraform.tfvars (or pass them through the command line) for things like resource group name, container image, app environment, etc.
 
